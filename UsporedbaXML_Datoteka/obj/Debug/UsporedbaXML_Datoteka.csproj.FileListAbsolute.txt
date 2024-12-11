@@ -1,0 +1,7 @@
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\bin\Debug\UsporedbaXML_Datoteka.exe.config
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\bin\Debug\UsporedbaXML_Datoteka.exe
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\bin\Debug\UsporedbaXML_Datoteka.pdb
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\obj\Debug\UsporedbaXML_Datoteka.csproj.AssemblyReference.cache
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\obj\Debug\UsporedbaXML_Datoteka.csproj.CoreCompileInputs.cache
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\obj\Debug\UsporedbaXML_Datoteka.exe
+C:\Users\učenik\source\repos\UsporedbaXML_Datoteka\UsporedbaXML_Datoteka\obj\Debug\UsporedbaXML_Datoteka.pdb
